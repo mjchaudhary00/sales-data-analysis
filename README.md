@@ -1,6 +1,7 @@
 # 📊 Sales Data Analysis Using Pandas
 
 This repository contains a Python project to analyze sales data using Pandas.
+
 It demonstrates:
 
 ✔ Data loading and cleaning
@@ -12,5 +13,6 @@ It demonstrates:
 ✔ Modular code structure
 
 ✔ Detailed documentation
+
 
 
